@@ -1,0 +1,58 @@
+/* Start Header */
+
+.header{
+	height: 85px;
+	background-color: rgba(0, 0, 0, .8);
+	border-bottom: 1px solid rgba(160, 160, 160, 0.62);
+}
+
+/* Statr Logo */
+
+.header .logo{ margin-top: 30px }
+
+.header .logo img{ width: 120px }
+
+/* End Logo */
+
+/* Start Mneu */
+
+.header .nav ul{ 
+	display: block;
+	list-style-type: none;
+	margin-left: 15%;
+    overflow: hidden;
+}
+
+.header .nav ul li{ padding: 35px 20px } 
+
+.header .nav ul li a{
+    text-decoration: none;
+    color: #FFF;
+	padding-bottom: 27px;
+}
+.header .nav ul li a:hover{ border-bottom: 4px solid #3535ff } /* Hover In Mneu */
+
+/* End Mneu */
+
+/* Start Icon Mneu */
+
+.header .icon ul{ 
+	float: right;
+	list-style-type: none;
+    overflow: hidden;
+}
+
+.header .icon ul li{
+    padding: 35px 10px;
+	color: #fff 
+}
+
+.header .icon ul li:first-of-type:hover{ color: #3B5998 } /* Hover In Icon Mneu */
+
+.header .icon ul li:nth-of-type(2):hover{ color: #dd4b39 } /* Hover In Icon Mneu */
+
+.header .icon ul li:last-of-type:hover{ color: #1EBEA5 } /* Hover In Icon Mneu */
+
+/* End Icon Mneu */
+
+/* End Header */

@@ -1,0 +1,61 @@
+/* Import File.Css */
+
+@import"header.css";
+@import"home.css";
+@import"pages.css";
+@import"features.css";
+@import"about.css";
+@import"edit.css";
+@import"phone.css";
+@import"team.css";
+@import"contact.css";
+@import"address.css";
+@import"footer.css";
+
+/* Import File.Css */
+
+/* Start The Page */
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/* Start The Page Body */
+
+body{
+	font-family: Arial;
+	background-image: url('img/laptop-ipad-organic-natural-159643.jpeg');
+	background-size: cover;
+	background-attachment: fixed;
+	perspective: 2000px;
+}
+
+/* End The Page Body */
+
+/* Start Container All Page */
+
+.container{
+	width: 1170px;
+	max-width: 100%;
+	margin: auto;
+}
+
+/* End Container All Page */
+
+/* Start My Framework */
+
+.fl-left{float: left;} /* All Float Left */
+
+.clear{ clear: both }
+
+h1{ margin: 0;  }
+
+p{ line-height: 1.7 } /* All P */
+
+.text-center{text-align: center;} /* All Text Center */
+
+/* End My Framework */

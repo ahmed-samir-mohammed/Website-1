@@ -1,0 +1,41 @@
+/* Start Features */
+
+.features{ height: 1000px }
+
+.features .black{
+	height: 500px;
+	background-color: #222;
+	color: #fff;
+}
+
+.features img{ 
+	width: 585px;
+	height: 500px
+}
+
+.features .black .feat1{
+	margin-top: 80px;
+	width: 40%
+}
+
+.features .feat1 h1, 
+.features .feat2 h1 {padding-top: 20px}
+
+.features .black .feat1 p{padding-top: 20px}
+
+.features .black .photo-1{ float: right }
+
+.features .white{
+	height: 500px;
+	background-color: #dcdcdc;
+}
+
+.features .white .feat2{
+	margin-top: 80px;
+	float: right;
+	width: 40%
+}
+
+.features .white .feat2 p{ padding-top: 20px}
+
+/* End Features */

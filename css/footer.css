@@ -1,0 +1,19 @@
+/* Start Footer */
+
+footer{
+	height: 100px;
+	background-color: #333;
+}
+
+footer .left{
+	color: #fff;
+	padding-top: 40px;
+}
+
+
+footer .right{
+	color: #fff;
+	padding-top: 40px;
+	float: right
+}
+/* End Footer */

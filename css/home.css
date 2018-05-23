@@ -1,0 +1,32 @@
+/* Start Home */
+.home{
+	height: 700px;
+	background-color: rgba(0, 0, 0, .8);
+	padding-top: 100px;
+}
+.home h1{
+	color: #fff;
+	font-size: 8em;
+	margin-top: 100px;
+	margin-bottom: 0;
+}
+
+.home p{
+	font-size: 2em;
+	color: #38495a;
+}
+
+.scroll h5{
+	padding-top: 100px;
+	padding-bottom: 40px;
+	color: #fff;
+}
+
+.scroll i{
+	color: #38495a;
+	padding: 20px;
+	border: 1px solid #38495a;
+	border-radius: 50%;
+}
+
+/* End Home */

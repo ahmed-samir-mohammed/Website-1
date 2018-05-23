@@ -1,0 +1,35 @@
+/* Start Edit */
+
+.edit{
+	height: 300px;
+	background-color: #313b42;
+}
+
+/* Start Edit-0 */
+
+.edit .edit-0{ width: 45% }
+
+.edit .edit-0:last-of-type{ margin-left: 10% } /* Edit-0 Numper 2 */
+
+/* Start P In Edit-0 */
+
+.edit .edit-0 p{
+	margin-top: 90px;
+	margin-left: 100px;
+	color: #fff;
+}
+
+/* End P In Edit-0 */
+
+/* Start Icon In Edit-0 */
+
+.edit .edit-0 i{
+	color: #fff;
+	margin-top: 100px;
+}
+
+/* End Icon In Edit-0 */
+
+/* Start Edit-0 */
+
+/* End Edit */

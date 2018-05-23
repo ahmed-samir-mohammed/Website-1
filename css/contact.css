@@ -1,0 +1,103 @@
+/* Start Contact Us */
+
+/* Start Background */
+
+.contact-0{
+	background-image: url(img/pexels-photo-270640.jpeg);
+	background-size: cover;
+	height: 700px;
+	background-attachment: fixed;
+	background-position: bottom;
+
+}
+
+/* End Background */
+
+/* Start Background Color & Height */
+
+.contact{
+	background-color: rgba(0, 0, 0, .8);
+	width:100%;
+	height: 100%;
+}
+
+/* End Background Color & Height */
+
+/* Start H1 */
+
+.contact .con-1 .con{ 
+	color:#fff;
+	padding: 130px;
+}
+
+/* End H1 */
+
+/* Start Con-1 */
+
+.contact .con-1 .con1{
+	margin-left:2%;
+	margin-bottom: 60px;
+	width: 31%;
+}
+
+/* End Con-1 */
+
+/* Start Input */
+
+.contact .con-1 .con1 input[ type="text"]{
+	background-color: rgba(0, 0, 0, .7);
+	width: 100%;
+	height: 45px;
+	border: 0px;
+	padding: 10px;
+	color: #fff;
+}
+
+/* End Input */
+
+/* Start Textarea */
+
+.contact .con-1 textarea{
+	margin-left: 2%;
+	width: 97%;
+	height: 100px;
+	background-color: rgba(0, 0, 0, .7);
+	padding: 15px;
+	border: 0px;
+	color: #fff;
+}
+
+/* End Textarea */
+
+/* Start Submit */
+
+.contact .con-1 .con2{
+	margin-top: 60px;
+	margin-left: 46%;
+}
+
+.contact .con-1 .con2 input[type="submit"]{
+	padding: 10px 20px;
+	background-color: #101e2d;
+	border: 0;
+	color: #fff
+}
+
+/* End Submit */
+
+/* End Contact Us */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

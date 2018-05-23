@@ -1,0 +1,19 @@
+/* Start Team */
+
+.team{
+	height: 700px;
+	background-color: azure;
+}
+
+.team .team-0{ padding-top:70px }
+
+.team .team-0 h1{ padding-bottom: 50px }
+
+.team .team-img .team-ph{ 
+	width: 20%;
+	margin-left: 4%;
+}
+
+.team .team-img .team-ph img{ box-shadow: 5px 5px 10px #777 }
+
+/* End Team */

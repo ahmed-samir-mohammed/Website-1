@@ -1,0 +1,62 @@
+/* Start About */
+
+.about{
+	height: 800px;
+	background-color: #fff
+}
+
+/* Start H1 In About-1 */
+
+.about #h{
+	margin: 0;
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+
+/* End H1 In About-1 */
+
+/* Start About-2 */
+
+.about .about-2{ padding-top: 50px}
+
+.about .about-2 .exp{
+	justify-content: space-around;
+	padding-left: 5%;
+	width: 23%;
+}
+
+/* Start H3 In About-2 */
+
+.about .about-2 .exp h3{ 
+	color: #1f2c42;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-left: 20%;
+}
+
+/* End H3 In About-2 */
+
+/* Start P In About-2 */
+
+.about .about-2 .exp p{ 
+	font-size: 13px; 
+	padding-top: 20px;
+	padding-left: 20%;
+}
+
+/* End P In About-2 */
+
+/* Start Imges In About-2 */
+
+.about .about-2 .exp .imges{
+	height: 250px;
+	width: 250px;
+	padding: 2px;
+	border-radius: 50%;
+}
+
+/* End Imges In About-2 */
+
+/* Start About-2 */
+
+/* End About */

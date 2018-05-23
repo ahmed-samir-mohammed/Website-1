@@ -1,0 +1,10 @@
+/* Start Address Map */
+
+.address{
+	background-image: url('../img/map.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 300px;
+}
+
+/* End Address Map */

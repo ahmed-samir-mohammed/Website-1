@@ -1,0 +1,42 @@
+/* Start Pages */
+
+.pages{
+	background-color: #313b42;
+	height: 650px;
+	
+}
+
+#h1 h1{
+	margin: 0;
+	text-align: center;
+	padding-top: 100px;
+	color: #fff
+}
+
+.pages .pages-item .content{
+	margin-left: 4%;
+	width: 20%;
+	
+	padding-top: 120px;
+}
+
+.pages .pages-item .content i{
+	margin-bottom: 30px;
+	margin-left: 55px;
+	border: 1px solid #8bc7ec;
+	border-radius: 50%;
+	padding: 40px;
+	background-color: #8bc7ec;
+}
+
+.pages .pages-item .content h2{
+	text-align: center;
+	color: #fff;
+	padding-bottom: 30px;
+}
+
+.pages .pages-item .content p{
+	color: #fff;
+	text-align: center;
+}
+/* End Pages */
